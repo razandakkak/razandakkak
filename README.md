@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @razandakkak
 - 👀 I’m interested in robotics and AI field.
-- 🌱 I’m currently learning more about machine learning, recently graduated with BE in Electrical Engineering.
+- 🌱 I graduated with BE in Electrical Engineering, But currently introducing AI models to two companies:)
 - 💞️ I’m looking to collaborate on different python scripts and knowledge in robotics field.
 - 📫 How to reach me: via my email: eng.razandakkak@gmail.com
 
